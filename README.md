@@ -4,6 +4,8 @@
 
 Este projeto demonstra o uso do PWM no Raspberry Pi Pico W para controlar um servomotor e um LED azul simultaneamente. O sistema faz com que o servo se mova suavemente entre 0° e 180°, ajustando o brilho do LED de acordo com o ângulo do servo.
 
+## link do video: https://drive.google.com/file/d/1-gdO1ixFSWPwPVNA9lvS77ZbZWVTIQi0/view?usp=share_link
+
  ## Componentes Utilizados
 
 Microcontrolador: Raspberry Pi Pico W
